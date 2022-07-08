@@ -104,6 +104,7 @@ module.exports = (env) => {
 			host: 'localhost',
 			port: '8000',
 			https: true,
+			open: true,
 			client: {
 				webSocketURL: {
 					hostname: 'localhost',

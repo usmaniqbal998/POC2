@@ -1,8 +1,8 @@
 import React from 'react';
 
 import CssBaseline from '@mui/material/CssBaseline';
-import { Grid } from '@mui/material';
 import MediaCard from './Card';
+import { Grid } from '@mui/material';
 
 const drawerWidth = 240;
 

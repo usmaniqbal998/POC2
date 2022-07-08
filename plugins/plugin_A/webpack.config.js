@@ -68,7 +68,6 @@ module.exports = (env) => {
 			},
 			allowedHosts: 'all',
 			https: true,
-			open: true,
 			port: 8002,
 			compress: true,
 			hot: true,
